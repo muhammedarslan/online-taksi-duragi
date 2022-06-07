@@ -1,7 +1,7 @@
 
 # Online Taksi Durağı
 
-Küçük girişimim Online Taksi Durağı ile müşterileriniz tek bir sms veya whatsapp mesajı ile adreslerine taksi çağırabilir, siz de kolay ara yüz sayesinde tüm bu süreci takip edebilirsiniz.
+Küçük girişimim Online Taksi Durağı ile müşterileriniz tek bir sms veya whatsapp mesajı ile adreslerine taksi çağırabilir, siz de kolay ara yüz sayesinde tüm bu süreci takip edebilirsiniz. 
 
 
 
